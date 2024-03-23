@@ -1,4 +1,4 @@
-package ru.albina.hello_world;
+package ru.albina.zadaniya;
 
 public class Zadanie_2_3 {
 	public void Zadan_2_3 (int[] nums) {

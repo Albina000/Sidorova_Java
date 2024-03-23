@@ -1,4 +1,4 @@
-package ru.albina.hello_world;
+package ru.albina.zadaniya;
 
 import java.util.Scanner;
 
